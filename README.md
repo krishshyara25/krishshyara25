@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm krish shyara</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Krish Shyara</h1>
 <h3 align="center">Full-stack developer specializing in MERN & Next.js, focused on building fast, scalable web applications.</h3>
 
 
@@ -74,6 +74,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
 
 
 
